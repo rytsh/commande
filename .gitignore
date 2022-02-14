@@ -1,0 +1,8 @@
+/cmd/commande/*.syso
+/cmd/commande/*.rc
+
+/res/versioninfo.json
+/res/commande.exe.manifest
+
+/out/*
+!/out/.gitkeep
